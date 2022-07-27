@@ -1,0 +1,28 @@
+@import "~bootstrap/scss/bootstrap";
+
+.row{
+    margin:0px !important;
+}
+
+.page-body{
+    padding:100px 0px;
+    background: #DDD;
+    min-height: 80vh;
+}
+
+.cursor-pointer{
+    cursor:pointer;
+}
+
+a,p,span,ul,ol,h3,h4,h5,h6{
+    font-family: 'Roboto';
+}
+
+p,a,ul,ol,a.btn,button,button.btn{
+    font-size: 1.125em;
+}
+.logo{
+  width: 100px;
+  height: 100px;
+}
+
